@@ -8,13 +8,13 @@ var hello = "world";
 
 ↑
 
-````
-<Empty line>
+<pre>
+[Empty line]
 ```
 var hello = "world";
 ```
-<Empty line>
-````
+[Empty line]
+</pre>
 
 ## Source Code (inline)
 
