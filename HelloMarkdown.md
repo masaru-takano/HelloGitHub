@@ -1,4 +1,4 @@
-# Markdown CheetSheet
+# Markdown Coding Conventions
 
 ## Source Code (Block)
 
@@ -16,7 +16,7 @@ var hello = "world";
 [Empty line]
 </pre>
 
-## Source Code (inline)
+## Source Code (Inline)
 
 Please execute `build.sh`.
 
@@ -38,12 +38,12 @@ Please execute `build.sh`.
 
 ## Image
 
-![Icon of DeviceConnect](./assets/image1.png)
+![This is an icon](./assets/image1.png)
 
 ↑
 
 ```
-![Icon of DeviceConnect](./assets/image1.png)
+![This is an icon](./assets/image1.png)
 ```
 
 ## Table
@@ -84,7 +84,7 @@ Please execute `build.sh`.
 + C
 ```
 
-## Horizontal
+## Horizontal Line
 
 - - -
 
