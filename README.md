@@ -1,4 +1,4 @@
-HelloGitHub
+HelloGitHub for Common Platform
 ===========
 
 Tutorial
