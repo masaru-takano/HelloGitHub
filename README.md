@@ -1,4 +1,4 @@
-HelloGitHub for Common Platform
+HelloGitHub for Common Platforms
 ===========
 
-Tutorial
+T.B.D.
